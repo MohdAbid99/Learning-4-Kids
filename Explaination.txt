@@ -1,0 +1,11 @@
+1.OOPs***** dt: 6-Dec
+2. Java(Basics-Interface,structure,Collections,Abstract Class, super keyword,throw,throws,final, and finally)**** Dt. 6-Dec
+3. C++(Pointers) Dt. 6-Dec
+3. Data Structure *** Dt.: 7-Dec
+4. Basic HTML, Basic CSS** Dt: 7-Dec ---->Project
+5.DBMS/SQL**Dt: 8-Dec
+
+
+
+
+4.Read about company
